@@ -1,9 +1,8 @@
 <pre>
 A Master's student studying Information and Communication engineering at TU Darmstadt.
-Status: Deperated Master's student.
-        Last Semester in the Master's program. (finally)
+Status: Graduated (Yeah!)
 Big fan of MATLAB.
-Interesting in communication, signal processing, detection, estimation, and molecular communication. <br />
+Interested in communication, signal processing, detection, estimation, and molecular communication. <br />
 </pre>
 
 <!---
