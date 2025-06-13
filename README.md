@@ -1,8 +1,9 @@
 <pre>
-A Master's student studying Information and Communication engineering at TU Darmstadt.
-Status: Graduated (Yeah!)
+MSc. Information and Communication Engineering at TU Darmstadt.
 Big fan of MATLAB.
-Interested in communication, signal processing, detection, estimation, and molecular communication. <br />
+Interested in communication, signal processing, detection, estimation, information theory, and molecular communication.
+Currently interesting/ self-learning/ doing project on Bio-Informatik and Molekulare Kommunikation
+  <br />
 </pre>
 
 <!---
